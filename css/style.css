@@ -1,2 +1,32 @@
-﻿body {
+﻿body
+{
+    font-family: Palatino, Book Antiqua, Serif;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 0;
+    background-color: #eee;
+}
+
+.contacts
+{
+    padding: 5px;
+}
+
+.container
+{
+    margin: 3px 0 3px 3px;
+}
+
+.name
+{
+    background-color: #abc;
+    padding: 2px;
+    width: 100%;
+    color: #222;
+}
+
+.phone
+{
+    padding-left: 10px;
+    color: #444;
 }

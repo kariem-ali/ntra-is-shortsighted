@@ -9,6 +9,7 @@ set bbwp="C:\Program Files (x86)\Research In Motion\BlackBerry WebWorks Packager
 
 rd /S /Q %release_dir%
 
-%zip% a %release_dir%\%project_name%.zip *.html *.xml js\ css\ images\
-%bbwp% %release_dir%\%project_name%.zip
+%zip% a %release_dir%\%project_name%.zip *.html *.xml js\ css\ images\ -x!*.svn* -x!js\*.svn* -x!css\*.svn* -x!images\*.svn*
+
+%bbwp% %release_dir%\%project_name%.zip /o %release_dir%
 pause 
