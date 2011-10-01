@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:rim="http://www.blackberry.com/ns/widgets" version="1.0.0">
+  <name>NTRA is Shortsighted</name>
+  <description>
+    This application updates the Egyptian mobile numbers in your BlackBerry contacts to reflect the new 
+    changes in mobile numbers that were issued by the Egyptian National Telecommunication Regulatory Authority (NTRA).
+  </description>
+  <author href="http://kariem.net/" rim:copyright="no copyright" email = "kariem.elkoush@gmail.com">
+    Kariem Ali Elkoush
+  </author>
+  <license href="http://www.gnu.org/licenses/gpl.html">GNU GPL v3</license>
+  <content src="app.html" />
+</widget>
