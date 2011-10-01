@@ -1,0 +1,14 @@
+@echo off
+
+set project_name=NtraIsShortsighted
+set current_dir=%~dp0
+set release_dir=%current_dir%bin
+
+set zip="C:\Program Files\7-Zip\7z.exe"
+set bbwp="C:\Program Files (x86)\Research In Motion\BlackBerry WebWorks Packager\bbwp.exe"
+
+rd /S /Q %release_dir%
+
+%zip% a %release_dir%\%project_name%.zip *.html *.xml js\ css\ images\
+%bbwp% %release_dir%\%project_name%.zip
+pause 
