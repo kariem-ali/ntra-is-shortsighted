@@ -30,3 +30,23 @@
     padding-left: 10px;
     color: #444;
 }
+
+.updated-number
+{
+    color: #d63e2f;
+}
+
+.buttons
+{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.button
+{
+    font-family: helvetica, verdana, arial;
+    font-size: 1em;
+    height: 2em;
+    width: 96%;
+}
