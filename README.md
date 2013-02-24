@@ -21,6 +21,6 @@ This application updates the Egyptian mobile numbers in your BlackBerry contacts
 
 ## Disclaimer:
 
-_This is a quick and dirty app that I developed mainly for myself. It was tested and has worked successfully on a __Torch 9800__ and __Curve 9300__. However, use it at your own risk. I neither guarantee anything nor am I responsible for anything that might go wrong._
+_This is a quick and dirty app that I developed mainly for myself. It was tested and has worked successfully on a Torch 9800 and Curve 9300. However, use it at your own risk. I neither guarantee anything nor am I responsible for anything that might go wrong._
 
 
