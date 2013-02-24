@@ -1,9 +1,3 @@
-
-*åĞÇ ÇáÈÑäÇãÌ íŞæã ÈÊÚÏíá ÃÑŞÇã ÇáåæÇÊİ ÇáãÍãæáÉ ÇáãÕÑíÉ Úáì ÌåÇÒ ÇáÈáÇß ÈíÑí ÇáÎÇÕ Èß áÊÚßÓ ÇáÊÛííÑÇÊ ÇáÌÏíÏÉ ÇáÊí ÃÕÏÑåÇ ÇáÌåÇÒ ÇáŞæãí áÊäÙíã ÇáÅÊÕÇáÇÊ. 
-áãÒíÏ ãä ÇáãÚáæãÇÊ* http://www.tra.gov.eg/arabic/News_NewsDetails.asp?ID=186
-
-----
-
 This application updates the Egyptian mobile numbers in your BlackBerry contacts to reflect the new changes in mobile numbers that were issued by the Egyptian National Telecommunication Regulatory Authority (NTRA). For more details: http://www.tra.gov.eg/english/news_newsdetails.asp?ID=186
 
 ----
